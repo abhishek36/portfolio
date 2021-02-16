@@ -1,0 +1,151 @@
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+nav {
+    color: white;
+}
+
+.navigation {
+    background-color: #32393f;
+    border-bottom-left-radius: 0.5rem;
+    height: 7rem;
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+
+.navigation-head {
+    font-weight: bold;
+    font-size: 2rem;
+    padding: 0.2em 0.5em;
+    vertical-align: bottom;
+}
+
+.list-non-bullet {
+    list-style: none;
+}
+
+.list-item-inline {
+    display: inline;
+    padding: 0.2rem 1rem;
+    text-decoration: none;
+}
+
+.list-active {
+    font-weight: bold;
+}
+
+.navigation .link {
+    color: white;
+    text-decoration: none;
+}
+
+
+.navigation .list-align {
+    text-align: right;
+}
+
+.hero {
+    text-align: center;
+    padding: 2rem;
+}
+
+.hero .hero-img {
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+.hero .hero-span {
+    color: #98beae;
+}
+
+.section {
+    padding: 2rem;
+}
+
+.section .ow .pad {
+    padding: 0 1rem;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+section h1 {
+    text-align: center;
+}
+
+.ow {
+    background-color: #cbd1d7;
+    padding-bottom: 1rem;
+    /* margin: 0 auto; */
+}
+
+.pad {
+    margin-top: 1rem;
+}
+
+.box {
+    width: 55%;
+    margin: 0 auto;
+}
+
+.social-link {
+    list-style: none;
+}
+
+.footer {
+    text-align: center;
+    background-color: #32393f;
+    padding: 2rem 0rem;
+    color: white;
+}
+
+.footer .footer-header {
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+
+.footer .link {
+    color: white;
+}
+
+ul li {
+    display: inline;
+}
+
+.flex-item-left {
+    vertical-align: center;
+    padding: 10px;
+    flex: 50%;
+}
+
+.flex-item-right {
+    padding: 10px;
+    flex: 50%;
+}
+
+.button {
+    background-color: #32393f;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
