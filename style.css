@@ -94,6 +94,10 @@ section h1 {
     /* margin: 0 auto; */
 }
 
+.section .p{
+    text-align: left;
+}
+ 
 .pad {
     margin-top: 1rem;
 }
