@@ -172,5 +172,6 @@ ul li {
 }
 
 .p-container {
-    font-size: 19px
+    font-size: 19px;
+    text-align: left;
 }
