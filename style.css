@@ -4,7 +4,7 @@
 
 body {
     margin: 0;
-    overflow-x :hidden
+    overflow-x: hidden
 }
 
 nav {
@@ -90,21 +90,23 @@ section h1 {
 }
 
 .ow {
-    background-color:	#DCDCDC;
+    background-color: #DCDCDC;
     padding-bottom: 1rem;
     /* margin: 0 auto; */
 }
 
-.section .p{
+.section .p {
     text-align: left;
 }
- 
+
 .pad {
     margin-top: 1rem;
 }
+
 .ul-pad {
     padding: 0;
 }
+
 .box {
     width: 70%;
     margin: 0 auto;
@@ -167,4 +169,8 @@ ul li {
 
 .ul-pad {
     padding-left: 0;
+}
+
+.p-container {
+    font-size: 19px
 }
